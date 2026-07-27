@@ -14,4 +14,7 @@ format:
 ---
 
 ### Synthetic Phantom Testing
-
+First, we began by testing the quantum reconstruction algorithm on a mathematically generated phantom image from skimage.data starting with a downscaled $32\times32$ version. The full resolution version of the input is shown below.
+<center>
+<img src="original_phantom_high_res.png" alt="Baseline High Resolution Phantom Image" width="800">
+</center>
