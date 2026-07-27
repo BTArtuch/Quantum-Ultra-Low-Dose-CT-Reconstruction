@@ -13,4 +13,5 @@ format:
       \usepackage{braket}
 ---
 
-### 1. Thermal Equilibrium (Initialization)
+### Synthetic Phantom Testing
+
