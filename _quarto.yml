@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Quantum MRI Pulse Simulation"
+  title: "Quantum Ultra Low Dose CT Image Reconstruction"
   navbar:
     left:
       - text: "Home"
