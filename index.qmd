@@ -18,3 +18,14 @@ First, we began by testing the quantum reconstruction algorithm on a mathematica
 <center>
 <img src="original_phantom_high_res.png" alt="Baseline High Resolution Phantom Image" width="800">
 </center>
+
+### Pauli Operator Combination String Generation
+We generate $2,500$ unique Puali operator strings for the simulation and the sample output is as shown:
+```
+Sample of bases measured:
+ - YXZYZXXXZZ
+ - YZYYYYXZZX
+ - ZZZYZYYYXY
+ - XZZXYYZXZY
+ - YXZYYZXZZY
+```
